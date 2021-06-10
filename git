@@ -1,0 +1,17 @@
+git config --global user.name "anu"
+git config --global user.gmail "chittyanu12@gmail.com"
+git clone http//..................
+touch file 1
+ls
+git status
+git add .
+git status
+git commit -m "file"
+if you get any issue enter dis command {git init} then it will initialize
+git log
+git push
+pwd 
+cd name/
+git branch
+git branch featurediscountsbelow45years
+git checkout
